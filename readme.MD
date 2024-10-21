@@ -13,8 +13,11 @@ commands. This example code simply On OFF RED LED on the board.
 # Wiring 
 
 ESP32 - USB -> 3.3V on PGE
+
 ESP32 - GND -> GND on PGE
+
 ESP32 - SCA -> SCA on PGE
+
 ESP32 - SCL -> SCL on PGE
 
 
