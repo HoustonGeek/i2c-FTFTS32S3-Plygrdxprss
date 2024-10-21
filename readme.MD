@@ -31,5 +31,7 @@ ESP32 - SCL -> SCL on PGE
 # Reference 
 
 https://www.adafruit.com/product/3333
+
 https://www.adafruit.com/product/5483
+
 https://www.arduino.cc/en/Reference/Wire
